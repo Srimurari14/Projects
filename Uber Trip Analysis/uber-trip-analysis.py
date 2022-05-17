@@ -4,7 +4,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv("C:\\Users\\murar\\OneDrive\\Desktop\\Proj\\Uber\\uber-raw-data-sep14.csv")
+df=pd.read_csv("...\\Desktop\\\uber-raw-data-sep14.csv")
 
 df.shape
 
