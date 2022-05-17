@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-df=pd.read_csv("uber-raw-data-sep14.csv")
-df.shape
+df=pd.read_csv("C:\\Users\\murar\\uber-raw-data-sep14.csv")
+df.shapez
 df.head()
 df.tail()
 df.info()
